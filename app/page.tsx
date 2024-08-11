@@ -1,9 +1,8 @@
+import { Button } from "./_components/ui/button"
 
 const Home = () => {
   return (
-    
-      <h1 className="text-red-500 bg-slate-700 mb-4">Home</h1>
-    
+    <Button>Click me</Button>
   )
 }
 
